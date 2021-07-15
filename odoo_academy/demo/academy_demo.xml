@@ -14,13 +14,13 @@
                 Curso de Contabilidad Intermedio
                 Aprendizaje sobre Contabilidad de costos y precios y Analisis de ingresos
             </field>
-            <field name="level">Intermedio</field>
+            <field name="level">intermedio</field>
         </record>
         
         <record model="academy.course" id="website_500">
             <field name="name">Website 500</field>
             <field name="description"></field>
-            <field name="level">Avanzado</field>
+            <field name="level">avanzado</field>
         </record>
     </data>
 </odoo>

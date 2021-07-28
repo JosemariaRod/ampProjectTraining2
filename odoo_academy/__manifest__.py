@@ -23,7 +23,7 @@
     
     'data': [
         
-        
+        'views/course_views.xml',
     ],
     
     'demo': [
